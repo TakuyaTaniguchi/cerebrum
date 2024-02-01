@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[7655],{7327:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/cerebrum/blog/tags/docusaurus","allTagsPath":"/cerebrum/blog/tags","count":4,"unlisted":false}')}}]);

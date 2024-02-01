@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[7922],{290:e=>{e.exports=JSON.parse('{"permalink":"/cerebrum/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
