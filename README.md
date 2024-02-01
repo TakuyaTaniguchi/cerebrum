@@ -1,7 +1,7 @@
 # Cerebrum(セレブラム)
 
 自身のノウハウを貯める
-
+- https://takuyataniguchi.github.io/cerebrum/
 ## Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
