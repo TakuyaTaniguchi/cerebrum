@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[3717],{385:e=>{e.exports=JSON.parse('{"permalink":"/cerebrum/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

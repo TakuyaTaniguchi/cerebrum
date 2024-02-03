@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[9058],{263:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/cerebrum/blog/tags/hola","allTagsPath":"/cerebrum/blog/tags","count":1,"unlisted":false}')}}]);

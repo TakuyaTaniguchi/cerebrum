@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[6956],{5:e=>{e.exports=JSON.parse('{"permalink":"/cerebrum/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

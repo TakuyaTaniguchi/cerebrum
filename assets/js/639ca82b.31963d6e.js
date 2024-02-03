@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcerebrum=self.webpackChunkcerebrum||[]).push([[3266],{4324:(e,r,c)=>{c.r(r),c.d(r,{default:()=>u});c(959);var s=c(6738),a=c(1527);function u(){return(0,a.jsxs)(s.Z,{children:[(0,a.jsx)("h1",{children:"My React page"}),(0,a.jsx)("p",{children:"This is a React page"})]})}}}]);
