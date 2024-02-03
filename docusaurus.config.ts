@@ -70,7 +70,7 @@ const config: Config = {
           position: 'left',
           label: 'Knowledge',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Bullet Journal', position: 'left'},
         {
           href: 'https://github.com/TakuyaTaniguchi/cerebrum',
           label: 'GitHub',

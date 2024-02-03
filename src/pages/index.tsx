@@ -25,7 +25,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--md"
             to="/blog">
-            Go to Blog
+            Go to Bullet Journal
           </Link>
         </div>
         <div className={styles.buttons}>
