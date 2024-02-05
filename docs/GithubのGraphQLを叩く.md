@@ -33,4 +33,25 @@ gh api graphql -f query='
 
 ```
 
+
+contributionsの取得
+```
+gh api graphql -f query='
+  query {
+    user(login: "TakuyaTaniguchi") {
+     contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays {
+            contributionCount
+            date
+          }
+        }
+      }
+    }
+    }
+  }'
+```
+
 https://zenn.dev/yuichkun/articles/b207651f5654b0
