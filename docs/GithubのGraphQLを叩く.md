@@ -36,6 +36,41 @@ gh api graphql -f query='
 
 contributionsの取得
 ```
+gh api graphql -f mutation='
+  query {
+    user(login: "TakuyaTaniguchi") {
+        createLabel(input:{
+            title: "Create issue from GraphQL", repositoryId:"repository-id-xxxxxxxxxxxxxxxxxxx",
+            projectIds:"project-id-xxxx", 
+            labelIds: ["label-id-xxxxxxx"]}) {
+            issue {
+            id
+            }
+        }
+    }
+  }'
+```
+
+全てのmutationを取得してファイルに書き出す
+
+```
+gh api graphql -f query='
+  query {
+    __schema {
+      mutationType {
+        fields {
+          name
+        }
+      }
+    }
+  }' --jq '.data.__schema.mutationType.fields' > ~/Desktop/mutations.json
+```
+
+mutation createIssue {
+
+}
+
+```
 gh api graphql -f query='
   query {
     user(login: "TakuyaTaniguchi") {
