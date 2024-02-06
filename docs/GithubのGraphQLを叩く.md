@@ -8,6 +8,7 @@ sidebar_position: 1
 
 GithubのPATを作成する。
 gh経由でアクセスする際はPATを設定してログインする
+
 ```
 gh auth login
 ```
@@ -66,9 +67,6 @@ gh api graphql -f query='
   }' --jq '.data.__schema.mutationType.fields' > ~/Desktop/mutations.json
 ```
 
-mutation createIssue {
-
-}
 
 ```
 gh api graphql -f query='
