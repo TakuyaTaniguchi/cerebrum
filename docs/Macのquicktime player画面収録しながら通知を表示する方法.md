@@ -11,5 +11,3 @@ Macのquicktime player画面収録はデフォルトの設定では通知設定�
 
 システム設定 > プライバシーとセキュリティ > 画面しゅうりょくとシステムオーディオ録音
 に quicktime playerを追加する。
-
-<img src="../static/img/aaa.png">
