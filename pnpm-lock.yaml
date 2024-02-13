@@ -43,6 +43,9 @@ devDependencies:
   textlint:
     specifier: ^14.0.2
     version: 14.0.2
+  textlint-rule-no-todo:
+    specifier: ^2.0.1
+    version: 2.0.1
   typescript:
     specifier: ~5.2.2
     version: 5.2.2
@@ -2726,6 +2729,10 @@ packages:
     dependencies:
       defer-to-connect: 2.0.1
     dev: false
+
+  /@textlint/ast-node-types@13.4.1:
+    resolution: {integrity: sha512-qrZyhCh8Ekk6nwArx3BROybm9BnX6vF7VcZbijetV/OM3yfS4rTYhoMWISmhVEP2H2re0CtWEyMl/XF+WdvVLQ==}
+    dev: true
 
   /@textlint/ast-node-types@14.0.2:
     resolution: {integrity: sha512-EYVyA4+G+KRNkNW5nytg61VvNtwy7JXSujGrsb4FB2pTA8Hwq/0n6TMXKVdL29n+EhyMIKmmqHFY1rjBwh3B/A==}
@@ -9770,6 +9777,20 @@ packages:
   /text-table@0.2.0:
     resolution: {integrity: sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==}
 
+  /textlint-rule-helper@2.3.1:
+    resolution: {integrity: sha512-b1bijvyiUmKinfFE5hkQMSXs3Ky8jyZ3Y6SOoTRJKV9HLL2LWUVFAUezO7z4FpAkVvYruDYWCwA5qWV8GmvyUw==}
+    dependencies:
+      '@textlint/ast-node-types': 13.4.1
+      structured-source: 4.0.0
+      unist-util-visit: 2.0.3
+    dev: true
+
+  /textlint-rule-no-todo@2.0.1:
+    resolution: {integrity: sha512-+adoWaBgoTN2g0WNcrERhVq7gdPKQIf1z7Ol+6XwMGv8XmuoFp5vJljHKtCmJBmGhBihjty2b8oaza2MY6UNlw==}
+    dependencies:
+      textlint-rule-helper: 2.3.1
+    dev: true
+
   /textlint@14.0.2:
     resolution: {integrity: sha512-wjx+hQY2dkmPr6oW/kWduqeP5Ynng6vS1ADQhcfawrTFUjHprObnaZ6mqDGlqp7wlm8Njekv8kDJZyRKxUxgoQ==}
     engines: {node: '>=18.14.0'}
@@ -10022,6 +10043,14 @@ packages:
     dependencies:
       '@types/unist': 3.0.2
       unist-util-is: 6.0.0
+
+  /unist-util-visit@2.0.3:
+    resolution: {integrity: sha512-iJ4/RczbJMkD0712mGktuGpm/U4By4FfDonL7N/9tATGIF4imikjOuagyMY53tnZq3NP6BcmlrHhEKAfGWjh7Q==}
+    dependencies:
+      '@types/unist': 2.0.10
+      unist-util-is: 4.1.0
+      unist-util-visit-parents: 3.1.1
+    dev: true
 
   /unist-util-visit@5.0.0:
     resolution: {integrity: sha512-MR04uvD+07cwl/yhVuVWAtw+3GOR/knlL55Nd/wAdblk27GCVt3lqpTivy/tkJcZoNPzTwS1Y+KMojlLDhoTzg==}
