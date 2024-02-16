@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://takuyataniguchi.github.io/cerebrum/blog</id>
     <title>Cerebrum Blog</title>
-    <updated>2024-02-13T10:41:47.000Z</updated>
+    <updated>2024-02-16T00:33:52.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://takuyataniguchi.github.io/cerebrum/blog"/>
     <subtitle>Cerebrum Blog</subtitle>
     <icon>https://takuyataniguchi.github.io/cerebrum/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[良いタイミングで手段を提供する]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/良いタイミングで手段を提供すr</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/良いタイミングで手段を提供すr"/>
+        <updated>2024-02-16T00:33:52.000Z</updated>
+        <summary type="html"><![CDATA[自分の持っている知識を常にひけらかしたり、見せびらかせていると周りから顰蹙を買ったり、]]></summary>
+        <content type="html"><![CDATA[<p>自分の持っている知識を常にひけらかしたり、見せびらかせていると周りから顰蹙を買ったり、
+望んだ最高率な結果を得られない時がある。
+相手が欲しいタイミング、そこを見計らって自分の手札を出すことが重要
+そのためには自分の手札が何があるかを常に意識しておく</p>
+<p>手札を増やす行為を日頃から行う</p>
+<p>メンショングループ作るにしても、いきなり作っても誰も使わず定着しない。
+コミュニケーションが増えてきたタイミングでたす。これが一番効果的でメンバーが主体的になりやすい。
+自分がPJの中心にいるときは自分が使いたいタイミングでもいいが必ずしもそうではないので、常に距離感を意識しておく</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドキュメントの更新も立派な仕事]]></title>
         <id>https://takuyataniguchi.github.io/cerebrum/blog/ドキュメントの更新も立派な仕事</id>
