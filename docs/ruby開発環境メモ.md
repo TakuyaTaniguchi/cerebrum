@@ -61,19 +61,27 @@ VSCode rdbg Ruby Debugger
     "configurations": [
         {
             "type": "rdbg",
-            "name": "Debug current file with rdbg",
+            "name": "Debug ruby",
             "request": "launch",
-            "cwd": "${workspaceRoot}",
-            "script": "bin/rails server",
+            "script": "${file}",
             "args": [],
-            "askParameters": false,
-            "useBundler": true,
-        },
-        {
+            "askParameters": true
+          },
+          {
             "type": "rdbg",
             "name": "Attach with rdbg",
             "request": "attach"
-        }
+          },
+          {
+              "type": "rdbg",
+              "name": "Debug rails",
+              "request": "launch",
+              "cwd": "${workspaceRoot}",
+              "script": "bin/rails server",
+              "args": [],
+              "askParameters": false,
+              "useBundler": true,
+          },
     ]
 }
 ```
