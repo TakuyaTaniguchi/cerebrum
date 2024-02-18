@@ -91,3 +91,9 @@ VSCode rdbg Ruby Debugger
 ```
 gem install bundler
 ```
+
+## 通常のinstallだとグローバルにインストールされるので下記にする
+
+```
+bundle install --path vendor/bundle
+```
