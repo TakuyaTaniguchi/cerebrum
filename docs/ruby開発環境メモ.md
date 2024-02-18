@@ -48,6 +48,10 @@ VSCode rdbg Ruby Debugger
         "rubyLsp.formatter": "rubocop",
     },
 ```
+- debugをインストールする (3.0系移行不要そうだが、なぜかエラーが出た)
+```
+gem install debug
+```
 
 
 - launch.jsonでデバックの作成する
