@@ -77,3 +77,9 @@ VSCode rdbg Ruby Debugger
     ]
 }
 ```
+
+- bundlerを入れる
+
+```
+gem install bundler
+```
