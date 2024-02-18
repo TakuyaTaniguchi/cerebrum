@@ -48,3 +48,32 @@ VSCode rdbg Ruby Debugger
         "rubyLsp.formatter": "rubocop",
     },
 ```
+
+
+- launch.jsonでデバックの作成する
+
+```json
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "rdbg",
+            "name": "Debug current file with rdbg",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "script": "bin/rails server",
+            "args": [],
+            "askParameters": false,
+            "useBundler": true,
+        },
+        {
+            "type": "rdbg",
+            "name": "Attach with rdbg",
+            "request": "attach"
+        }
+    ]
+}
+```
