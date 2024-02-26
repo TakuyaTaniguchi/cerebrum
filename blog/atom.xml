@@ -2,11 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://takuyataniguchi.github.io/cerebrum/blog</id>
     <title>Cerebrum Blog</title>
-    <updated>2024-02-16T00:33:52.000Z</updated>
+    <updated>2024-02-26T11:39:43.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://takuyataniguchi.github.io/cerebrum/blog"/>
     <subtitle>Cerebrum Blog</subtitle>
     <icon>https://takuyataniguchi.github.io/cerebrum/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[チームを分割する際に思想で分けてはいけない]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/チームを分割する際に思想で分けてはいけない</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/チームを分割する際に思想で分けてはいけない"/>
+        <updated>2024-02-26T11:39:43.000Z</updated>
+        <summary type="html"><![CDATA[チームを分割する際に思想で分けてはいけない]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_qibj" id="チームを分割する際に思想で分けてはいけない">チームを分割する際に思想で分けてはいけない<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E5%88%86%E5%89%B2%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AB%E6%80%9D%E6%83%B3%E3%81%A6%E3%82%99%E5%88%86%E3%81%91%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84#%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E5%88%86%E5%89%B2%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AB%E6%80%9D%E6%83%B3%E3%81%A6%E3%82%99%E5%88%86%E3%81%91%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84" class="hash-link" aria-label="チームを分割する際に思想で分けてはいけない への直接リンク" title="チームを分割する際に思想で分けてはいけない への直接リンク">​</a></h2>
+<p>チームを分割する際に、思想や抽象的な目標で分割することがある
+このチームはユーザーの体験をあげる。とか...
+こういった抽象表現はあいまいな理由でPJを進めることになり、それぞれに主体性を持たない上に、結局はそのチームに閉じこもった仕事になる。</p>
+<p>そのような場合KPIを軸にチームを分割するのが良いと思う
+顧客の離脱率・顧客の流入数をK軸に持つ領域があり、そこから分割してチームを作る
+それらのKPIを最も効率よく改善するであろうものがPJであり、関わる人間はPJの成功ではなくKPIの改善を重要視する。そうなれば同じKPIを見ているチームにも関心を持つし、
+PJ以外の物事にも積極的に取り組むことができるのではないだろうか。</p>
+<p>思想ベースの組織は美しいし耳障りがいい。ただし、それゆえに抽象的でありインプットにも時間がかかる。それらの考えを全て捨てる必要はない、時にKPIを追う際のエッセンスとしてユーザに対してどう対応すべきか。という判断材料として使うことがいいように思う。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムの欠点]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/スクラムの欠点</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/スクラムの欠点"/>
+        <updated>2024-02-26T00:20:53.000Z</updated>
+        <summary type="html"><![CDATA[スクラムの欠点]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_qibj" id="スクラムの欠点">スクラムの欠点<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%81%AE%E6%AC%A0%E7%82%B9#%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%81%AE%E6%AC%A0%E7%82%B9" class="hash-link" aria-label="スクラムの欠点 への直接リンク" title="スクラムの欠点 への直接リンク">​</a></h2>
+<p>スクラムはアジャイルなチームになるための効率の良いフレームワークである
+基本的にチームの最適化を目指すわけだがそこに意識しないと罠があると思う
+最適化は常にフレームワークのサイズに合わせて行われるので、プロジェクトの達成を基本としている場合、プロジェクトの進行は滞りなくでき、短期的には
+成果が出ているが、開発組織全体で長期的にみたときに、その開発チームだけ
+が最適化されていてる状態が正しい傾向とはならない時がある
+例えば、チーム間共有の課題や開発組織全体の課題への取り組みへの意識が損なわれたりする
+その場合意識的に越境するエンジニアが重宝されるわけだが、それらのエンジニアの
+基本的なものは仕事にコミットする時間が単純に多いだけで、完全に人に依存したものになる
+こうなると、それらの人材を育てることができない。と思い、マネージメントからすると
+それらの人を雇うか、そのような変化するように祈るだけになる。
+また人に依存しているので、単純にその人が環境の変化により、仕事にコミットできなくなると
+破綻してしまう。</p>
+<p>これを意識しつつ、スクラムマスターは、チームと開発事業責任者と相談しながら、フレームワークのサイズや形をを変え長期的な目線を踏まえて、人を育成する視点を持つことが大事だと考える</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織図を変えるタイミング]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/組織図を変えるタイミング</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/組織図を変えるタイミング"/>
+        <updated>2024-02-20T22:59:16.000Z</updated>
+        <summary type="html"><![CDATA[実はそんなに多くないのでは？]]></summary>
+        <content type="html"><![CDATA[<p>実はそんなに多くないのでは？
+人が増えた時は並列に増やす。
+事業が変わった場合は横軸で増える
+ソフトウェアに合わせて変える</p>
+<p>それ以外の例えばエンジニアにはこう言う行動をしてほしい。は思想でしかないので組織図を変えたところで変わらない。
+組織図を変えるときはもっと変えるにあたって明確な理由がある時で、それがないのであれば変える必要はないし、原因の解決はもっと違うところにあるのかもしれない。
+組織図が人の流れを作るのは事実だが、それを変えれば必ずしも意図通りに人を適用できるわけではない。現時点で目指したい流れや文化を作りにそれに合わせて組織を変更する必要がある。
+状態は常に不可逆である。
+変えることはできるけど、有限（社員のモチベート）なので気を付ける
+組織図を変えるから始めるのは荒療治</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆算して仕事をしない]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/逆算して仕事をしない</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/逆算して仕事をしない"/>
+        <updated>2024-02-20T22:59:16.000Z</updated>
+        <summary type="html"><![CDATA[逆算して仕事を見積もることは大事だが、行動にそれを乗っけない]]></summary>
+        <content type="html"><![CDATA[<p>逆算して仕事を見積もることは大事だが、行動にそれを乗っけない
+人に挑戦させ、そこをフォローする
+ゴールなんてないんだよ。
+助けてくれる人がいるから挑戦する。助けてくれる人がいるから挑戦しない。塩梅が難しい</p>
+<p><a href="https://gothedistance.hatenadiary.jp/entry/2024/02/20/110000" target="_blank" rel="noopener noreferrer">https://gothedistance.hatenadiary.jp/entry/2024/02/20/110000</a></p>
+<p>スクラム開発はプロダクトを前に進めるもので、必ずしもエンジニアに成長機会を与えるものではない、
+不確実性をなくしタスクに取り掛かるわけだが、時には不確実なものに直接向かった方が勉強になる時がある。
+また効率よく動くことが求められるので、どうしても得意な人によりがちで、得意な人を増やすことに着目できないことがある。</p>
+<p>解決するにはストレッチなタスクをあえて用意したり、半ば強制的に適当な人以外にタスクをアサインし、得意な人にサポートすることや、スプリントに参加するメンバーのリソースを下げ、別のPJや改善にコストを割けるようにしてあげるのがいいのかもしれない</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[良いタイミングで手段を提供する]]></title>
         <id>https://takuyataniguchi.github.io/cerebrum/blog/良いタイミングで手段を提供すr</id>
@@ -54,6 +124,19 @@
 <h2 class="anchor anchorWithStickyNavbar_qibj" id="こつ">こつ<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B%E7%B6%99%E7%B6%9A%E3%81%AE%E3%82%B3%E3%83%84#%E3%81%93%E3%81%A4" class="hash-link" aria-label="こつ への直接リンク" title="こつ への直接リンク">​</a></h2>
 <p>やりたいことを数珠つなぎに考える
 コミットするにはどうするか、調べた結果をgithubにコミットしたい、ドキュメントをホスティングする。-&gt;　textlintとか入れたい。-&gt;書評とか書きたい -&gt;　praywrihtでブクログスクレイングするかー　など小さなことでいいので毎日コミットするには何がいいかを考えてやるべきことを繋げていく。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面接を受ける時のポイント]]></title>
+        <id>https://takuyataniguchi.github.io/cerebrum/blog/面接を受ける時のポイント</id>
+        <link href="https://takuyataniguchi.github.io/cerebrum/blog/面接を受ける時のポイント"/>
+        <updated>2024-02-05T10:38:43.000Z</updated>
+        <summary type="html"><![CDATA[面接を受ける時のポイント]]></summary>
+        <content type="html"><![CDATA[<p>面接を受ける時のポイント
+中途採用の場合お互いを知る場合であり、なるべく自然体で受ける
+連続性のある質問を用意する。
+例えば、技術的な課題や、組織的な課題をエンジニア &lt; CTO などの順番を踏んで確認することで、
+課題感の共有などができているか、などを確認する
+また上のレイヤーの担当者と話すときは、自身の管轄の組織ではなく自身の立場から見て、さらに上のレイヤーの不満などがないか確認する</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[専門分野から知識を学び、思考の選択肢を常に増やしておく]]></title>
