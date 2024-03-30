@@ -4,10 +4,52 @@
         <title>Cerebrum Blog</title>
         <link>https://takuyataniguchi.github.io/cerebrum/blog</link>
         <description>Cerebrum Blog</description>
-        <lastBuildDate>Sat, 02 Mar 2024 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 02:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[仕事のコミュニケーションとは何か]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/仕事のコミュニケーションとは何か</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/仕事のコミュニケーションとは何か</guid>
+            <pubDate>Fri, 29 Mar 2024 02:34:05 GMT</pubDate>
+            <description><![CDATA[昨今リモートワークがりゅうせいになり、コミュニケーションが捗らなくなった。という課題がある。]]></description>
+            <content:encoded><![CDATA[<p>昨今リモートワークがりゅうせいになり、コミュニケーションが捗らなくなった。という課題がある。</p>
+<p>これらは、多く場合コーヒータイムなどで緩和される施策が多いが話してこれでコミュニケーションが円滑になるだろうか？？</p>
+<p>そもそもなんのためにコミュニケーションを日頃から取るのか明確にしておく必要がある。</p>
+<p>あなたが歩いているとき目の前の人が落とし物をしたら拾いますよね。
+見ず知らずの人でも倒れていたり、したら声をかけませんか？</p>
+<p>これは友達ではなく、そもそも仕事は助け合いの関係性で成り立つことがほとんで、人は仲が良くなくても、顔見知りではなくても、事前的に人は助け合うものです。
+ではなぜ日頃からコミュニケーションを取るのかというと、楽しく仕事するためです。
+助け合うためではなく、楽しく仕事をするために、僕たちはコミュニケーションを取るわけです。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[読書のコツ]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/読書のコツ</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/読書のコツ</guid>
+            <pubDate>Tue, 05 Mar 2024 03:12:16 GMT</pubDate>
+            <description><![CDATA[あまり集中が長続きしないタイプ]]></description>
+            <content:encoded><![CDATA[<p>あまり集中が長続きしないタイプ</p>
+<p>複数の本をそれぞれ分けて読む
+また、学びを得たい一心で自分の関心ごとがある本ばかりを並行して読むと、
+「これは集中して読みたい」ばかりになってしまい、結局読めなくなる
+隙間時間にうまく読むにはそこまで関心はなく、雑学を仕入れるくらいの本も用意しておく</p>
+<p>例えば組織論などと並行して薬学や景品表示法など知ってみたいが、そこまでめちゃくちゃ読みたい訳でもないものを用意する
+心理学や漢方　絵画やシンプルに読み物して読めるものが良い</p>
+<p>並行読みも悪いことではない、色々なジャンルを読むことで飽きることを緩和して読むことができる。
+気分転換にもなるし、そもそも本は全てを読み切らなくてもいい。無理のない範囲で読むべきである。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[情報は能動的にしか取れない]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/情報は能動的にしか取れない</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/情報は能動的にしか取れない</guid>
+            <pubDate>Tue, 05 Mar 2024 03:02:39 GMT</pubDate>
+            <description><![CDATA[自分の場合]]></description>
+            <content:encoded><![CDATA[<p>自分の場合</p>
+<p>twitterにエンジニアリング用のリストを作ったが全然見ない
+能動的に週に一回や2,3日に読む時間を取らないと無理
+またみるモチベーションの量は内容と分量に比例する</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[マネージメントの能力]]></title>
             <link>https://takuyataniguchi.github.io/cerebrum/blog/マネージメントの能力</link>
@@ -132,7 +174,7 @@ PJ以外の物事にも積極的に取り組むことができるのではない
             <pubDate>Tue, 13 Feb 2024 08:44:11 GMT</pubDate>
             <description><![CDATA[なぜ始めたのか]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_qibj" id="なぜ始めたのか">なぜ始めたのか<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B%E7%B6%99%E7%B6%9A%E3%81%AE%E3%82%B3%E3%83%84#%E3%81%AA%E3%81%9C%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%AE%E3%81%8B" class="hash-link" aria-label="なぜ始めたのか への直接リンク" title="なぜ始めたのか への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_qibj" id="工夫">工夫<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B%E7%B6%99%E7%B6%9A%E3%81%AE%E3%82%B3%E3%83%84#%E5%B7%A5%E5%A4%AB" class="hash-link" aria-label="工夫 への直接リンク" title="工�夫 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_qibj" id="工夫">工夫<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B%E7%B6%99%E7%B6%9A%E3%81%AE%E3%82%B3%E3%83%84#%E5%B7%A5%E5%A4%AB" class="hash-link" aria-label="工夫 への直接リンク" title="工夫 への直接リンク">​</a></h2>
 <p>毎日の情報収集を大事にし、Obsidianなどノートアプリにやりたいことをどんどんメモっていく。<br>
 <!-- -->ブログなど、コミットするプラットフォームを整える<br>
 <!-- -->頑張りすぎずに、今コミットできるものでも明日に持ち越してもいい、
