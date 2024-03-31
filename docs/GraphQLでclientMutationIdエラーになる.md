@@ -1,9 +1,9 @@
 ---
-title: clientMutationId
+title: GraphQLでclientMutationIdエラーになる
 sidebar_position: 1
 ---
 
-# clientMutationId
+# GraphQLでclientMutationIdエラーになる
 
 clientMutationIdはクライアントからGraphQlを実行する際に暗黙的発行される追跡用の値です。
 多くの場合実装者は意識しなくていいのですが、GraphiQL IDEなどでデバックする際には、
