@@ -137,6 +137,13 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    sitemap: {
+      lastmod: 'date',
+      changefreq: 'weekly',
+      priority: 0.5,
+      ignorePatterns: ['/tags/**'],
+      filename: 'sitemap.xml',
+    },
   } satisfies Preset.ThemeConfig,
 };
 
