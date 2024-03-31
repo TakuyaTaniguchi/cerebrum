@@ -66,6 +66,16 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+
+    // <meta name="google-site-verification" content="5hyZWkSmaQmPk4hveYKKA9vqjAS4bVsVaN8I8ZYXqek" />
+    head: {
+      meta: [
+        {
+          name: 'google-site-verification',
+          content: '5hyZWkSmaQmPk4hveYKKA9vqjAS4bVsVaN8I8ZYXqek',
+        },
+      ],
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Cerebrum',
