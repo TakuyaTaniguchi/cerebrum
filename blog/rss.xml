@@ -4,10 +4,32 @@
         <title>Cerebrum Blog</title>
         <link>https://takuyataniguchi.github.io/cerebrum/blog</link>
         <description>Cerebrum Blog</description>
-        <lastBuildDate>Fri, 29 Mar 2024 02:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[PBIのストーリー]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/PBIのストーリー</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/PBIのストーリー</guid>
+            <pubDate>Wed, 03 Apr 2024 03:20:26 GMT</pubDate>
+            <description><![CDATA[PBIのストーリー]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_qibj" id="pbiのストーリー">PBIのストーリー<a href="https://takuyataniguchi.github.io/cerebrum/blog/PBI%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC#pbi%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" class="hash-link" aria-label="PBIのストーリー への直接リンク" title="PBIのストーリー への直接リンク">​</a></h2>
+<p>PBIのストーリーは「誰が・どういう目的で・何をしたいのか」がテンプレートとしてあるがこれは、論証・導出が正しいかを検査するのがいい。</p>
+<p>目的が前提、何をしたいが結論と捉えて、論証が正しいか検定できる。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[文章のコツ]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/文章のコツ</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/文章のコツ</guid>
+            <pubDate>Mon, 01 Apr 2024 05:53:43 GMT</pubDate>
+            <description><![CDATA[論理的な文章を意識する。]]></description>
+            <content:encoded><![CDATA[<p>論理的な文章を意識する。
+前提と結論が矛盾しない。（結論を否定した時に矛盾する文章を考える）
+全体的な構成を視覚的に捉える。</p>
+<p>主張・理由・事実を意識する。
+映画の導入のように、客観-&gt;主観-&gt;客観を意識する。</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[仕事のコミュニケーションとは何か]]></title>
             <link>https://takuyataniguchi.github.io/cerebrum/blog/仕事のコミュニケーションとは何か</link>
@@ -22,6 +44,16 @@
 <p>これは友達ではなく、そもそも仕事は助け合いの関係性で成り立つことがほとんで、人は仲が良くなくても、顔見知りではなくても、事前的に人は助け合うものです。
 ではなぜ日頃からコミュニケーションを取るのかというと、楽しく仕事するためです。
 助け合うためではなく、楽しく仕事をするために、僕たちはコミュニケーションを取るわけです。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ティール組織について]]></title>
+            <link>https://takuyataniguchi.github.io/cerebrum/blog/ティール組織について</link>
+            <guid>https://takuyataniguchi.github.io/cerebrum/blog/ティール組織について</guid>
+            <pubDate>Tue, 12 Mar 2024 05:27:09 GMT</pubDate>
+            <description><![CDATA[ティール組織について]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_qibj" id="ティール組織について">ティール組織について<a href="https://takuyataniguchi.github.io/cerebrum/blog/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" class="hash-link" aria-label="ティール組織について への直接リンク" title="ティール組織について への直接リンク">​</a></h2>
+<p>役職ではなく、役割をもつ組織図、組織図の見た目のパワーはすごい
+専門職ではなく専門性を意識することで柔軟な対応と構成を持つことができる</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[読書のコツ]]></title>
